@@ -1,6 +1,6 @@
 import os
 import time
-#SAVE THIS TO GITHUB ASAP!
+#SAVE THIS TO GITHUB ASAP! saved
 #Required startup command for this to run when the habitsCounter file changes
 # watchmedo shell-command     --patterns='totalHabitCount.txt'     --recursive     --command='python3 /home/lunkwill/projects/auto-ubuntu-color/main.py'
 
